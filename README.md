@@ -1,5 +1,7 @@
 ## IMPORTANT NOTICE
 
+Un cambio introducdo como prueba
+
 The batch of Labrador boards produced in February 2020 were configured incorrectly at the factory and **will not be detected** by older releases of the Labrador software interface.
 
 There is a fix in the latest version of the software (July 2020 Continuous release) that will automatically reconfigure the board upon connection.
